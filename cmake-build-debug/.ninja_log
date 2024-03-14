@@ -1,0 +1,16 @@
+# ninja log v5
+2	433	6725358170839682	CMakeFiles/MinesweeperBoard.dir/MinesweeperBoard.cpp.obj	a24ab40e304cb794
+2	488	6725361299261826	CMakeFiles/MinesweeperBoard.dir/main.cpp.obj	bf5638dffa16933d
+504	933	6725361303659965	MinesweeperBoard.exe	e28618555195d21f
+3	2474	6866058164987192	build.ninja	8e47eef68576cde4
+20	430	6725358170809761	CMakeFiles/MinesweeperBoard.dir/MSBoardTextView.cpp.obj	ba37ed64121889f
+21	644	6725359591337298	CMakeFiles/MinesweeperBoard.dir/MSSFMLController.cpp.obj	4eac21c0de761c2f
+18	581	6725359590818679	CMakeFiles/MinesweeperBoard.dir/MSTextController.cpp.obj	d8a37774fa041739
+14	676	6725359591766132	CMakeFiles/MinesweeperBoard.dir/MSSFMLView.cpp.obj	30d70e2ff043230d
+20	396	6866058366990264	CMakeFiles/MinesweeperBoard.dir/MSBoardTextView.cpp.obj	db575f220ed090aa
+2	399	6866058367030150	CMakeFiles/MinesweeperBoard.dir/MinesweeperBoard.cpp.obj	5b60ec27871de468
+25	586	6866058368905140	CMakeFiles/MinesweeperBoard.dir/MSTextController.cpp.obj	fee0abb0491392fb
+34	592	6866058368955009	CMakeFiles/MinesweeperBoard.dir/MSSFMLController.cpp.obj	37f91db9fd737104
+16	601	6866058369054745	CMakeFiles/MinesweeperBoard.dir/main.cpp.obj	1ecbe555d1d178ea
+30	605	6866058369064715	CMakeFiles/MinesweeperBoard.dir/MSSFMLView.cpp.obj	90f4a16d68901e40
+605	1126	6866058374231202	MinesweeperBoard.exe	e28618555195d21f

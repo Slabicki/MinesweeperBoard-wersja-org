@@ -1,0 +1,3 @@
+C:/Users/huber/Desktop/pwr/projek/MinesweeperBoard-wersja org/cmake-build-debug/CMakeFiles/MinesweeperBoard.dir
+C:/Users/huber/Desktop/pwr/projek/MinesweeperBoard-wersja org/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/huber/Desktop/pwr/projek/MinesweeperBoard-wersja org/cmake-build-debug/CMakeFiles/rebuild_cache.dir
